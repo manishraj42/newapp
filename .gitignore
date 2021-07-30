@@ -6,6 +6,8 @@
 
 # Ignore bundler config.
 /.bundle
+public_keyy
+public_keyy.pub
 
 # Ignore the default SQLite database.
 /db/*.sqlite3
